@@ -1,0 +1,102 @@
+FoodId,FoodName,OptionName,Price
+c432b78c-bd0a-4837-afb6-519253db4574,Chicken Barbeque,,40
+,,,
+4436f141-3139-42b1-acee-32e076ee43e1,Beef Stake,with rice,45
+,,,
+4436f141-3139-42b1-acee-32e076ee43e1,Beef Stake,with rice,45
+,,,
+4436f141-3139-42b1-acee-32e076ee43e1,Sinigang na Bangus,with rice,40
+,,,
+0519412e-c11d-4da1-8b0b-4d607304abe9,Beef Stake,with rice,45
+,,,
+0519412e-c11d-4da1-8b0b-4d607304abe9,Sinigang na Bangus,with rice,40
+,,,
+0519412e-c11d-4da1-8b0b-4d607304abe9,Sinigang na Bangus,with coke,40
+fe59eba7-7182-4b45-878d-62454cb9529b,Beef Stake,with rice,50
+fe59eba7-7182-4b45-878d-62454cb9529b,Sinigang na Bangus,with coke,50
+fe59eba7-7182-4b45-878d-62454cb9529b,Menudo,with coke,55
+696dab0e-40c6-48c4-baf9-16b99402bb58,Porkchop,,40
+696dab0e-40c6-48c4-baf9-16b99402bb58,Menudo,,40
+696dab0e-40c6-48c4-baf9-16b99402bb58,hamonado,,40
+696dab0e-40c6-48c4-baf9-16b99402bb58,hamonado,with rice,50
+696dab0e-40c6-48c4-baf9-16b99402bb58,hamonado,with lemon,65
+289760f9-3897-43f2-a445-d0d8323cec3e,Beef Stake,,40
+289760f9-3897-43f2-a445-d0d8323cec3e,Sinigang na Bangus,with rice,45
+289760f9-3897-43f2-a445-d0d8323cec3e,Tortang Talong,with coke,50
+289760f9-3897-43f2-a445-d0d8323cec3e,hamonado,with juice,60
+42fa8fad-720f-4475-a6a2-ca977c0b54f9,hamonado,with juice,60
+42fa8fad-720f-4475-a6a2-ca977c0b54f9,hamonado,with rice,50
+42fa8fad-720f-4475-a6a2-ca977c0b54f9,Tortang Talong,with rice,45
+42fa8fad-720f-4475-a6a2-ca977c0b54f9,Tortang Talong,,35
+5e1190a8-ec9d-41b9-8ad4-21799ad2aa10,Beef Stake,,40
+5e1190a8-ec9d-41b9-8ad4-21799ad2aa10,Beef Stake,with rice,50
+5e1190a8-ec9d-41b9-8ad4-21799ad2aa10,Tortang Talong,with rice,45
+5e1190a8-ec9d-41b9-8ad4-21799ad2aa10,Tortang Talong,with juice,55
+1a7404d6-caaf-4f42-bff3-08de1ec07239,Beef Stake,,40
+1a7404d6-caaf-4f42-bff3-08de1ec07239,Beef Stake,with rice,50
+1a7404d6-caaf-4f42-bff3-08de1ec07239,Adobo,with coke,50
+6bb5e6b9-d95a-4974-b6f6-a8753c346a70,Beef Stake,,40
+6bb5e6b9-d95a-4974-b6f6-a8753c346a70,Sinigang na Bangus,with rice,45
+6bb5e6b9-d95a-4974-b6f6-a8753c346a70,Sinigang na Bangus,with juice,55
+6bb5e6b9-d95a-4974-b6f6-a8753c346a70,Adobo,with juice,55
+4b90d73a-61f9-4ff9-9627-4732ab8dcf83,Adobo,with juice,55
+4b90d73a-61f9-4ff9-9627-4732ab8dcf83,Tortang Talong,with juice,55
+4b90d73a-61f9-4ff9-9627-4732ab8dcf83,Tortang Talong,with coke,50
+4b90d73a-61f9-4ff9-9627-4732ab8dcf83,Porkchop,with coke,55
+4b90d73a-61f9-4ff9-9627-4732ab8dcf83,Porkchop,with juice,60
+78b93f2d-0a9c-426d-9c5f-03ed7b049eed,Beef Stake,,40
+78b93f2d-0a9c-426d-9c5f-03ed7b049eed,Beef Stake,with rice,50
+78b93f2d-0a9c-426d-9c5f-03ed7b049eed,Sinigang na Bangus,with rice,45
+b2c99d44-f389-4485-98e8-1b982e0d7128,Sinigang na Bangus,with rice,45
+b2c99d44-f389-4485-98e8-1b982e0d7128,Adobo,with rice,45
+b2c99d44-f389-4485-98e8-1b982e0d7128,Adobo,,35
+b2c99d44-f389-4485-98e8-1b982e0d7128,Adobo,,35
+be1ed67f-a98c-49ea-bed6-b89e25e49840,Beef Stake,,40
+be1ed67f-a98c-49ea-bed6-b89e25e49840,Adobo,,35
+f6198f00-432d-4ad0-b341-eaa352b2d873,Adobo,,35
+c878470f-c2e8-4628-96ea-cd9a43d13e05,Adobo,,35
+529bbde5-d2c2-4368-8b60-19fc99c1a0a2,Beef Stake,,40
+529bbde5-d2c2-4368-8b60-19fc99c1a0a2,Beef Stake,with rice,50
+529bbde5-d2c2-4368-8b60-19fc99c1a0a2,Beef Stake,with coke,55
+529bbde5-d2c2-4368-8b60-19fc99c1a0a2,Sinigang na Bangus,with coke,50
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Adobo,with coke,50
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Adobo,with rice,45
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Sinigang na Bangus,with rice,45
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Beef Stake,with rice,50
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Pata,with rice,50
+d2231bba-8df5-43d8-a684-caf9ae1f8091,Pork Barbeque,with rice,40
+3c40dbfe-b1f8-4e17-8772-3fd7b150f9f4,Beef Stake,,40
+3c40dbfe-b1f8-4e17-8772-3fd7b150f9f4,Beef Stake,with rice,50
+3c40dbfe-b1f8-4e17-8772-3fd7b150f9f4,Adobo,with rice,45
+3c40dbfe-b1f8-4e17-8772-3fd7b150f9f4,Adobo,with coke,50
+3c40dbfe-b1f8-4e17-8772-3fd7b150f9f4,Adobo,with juice,55
+2f2648f3-af1e-4ccb-934f-6407f38a7424,Beef Stake,with rice,50
+2f2648f3-af1e-4ccb-934f-6407f38a7424,Sinigang na Bangus,with rice,45
+2f2648f3-af1e-4ccb-934f-6407f38a7424,hamonado,with rice,50
+2f2648f3-af1e-4ccb-934f-6407f38a7424,hamonado,with lemon,65
+7faa03c0-41a3-4dfe-969b-c378a3e2d82d,Beef Stake,,40
+7faa03c0-41a3-4dfe-969b-c378a3e2d82d,Beef Stake,with rice,50
+7faa03c0-41a3-4dfe-969b-c378a3e2d82d,Adobo,with rice,45
+7faa03c0-41a3-4dfe-969b-c378a3e2d82d,Sinigang na Bangus,with rice,45
+7faa03c0-41a3-4dfe-969b-c378a3e2d82d,Sinigang na Bangus,with coke,50
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,Beef Stake,with coke,55
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,Beef Stake,with rice,50
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,Sinigang na Bangus,with rice,45
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,Adobo,with rice,45
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,Adobo,with lemon,60
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,hamonado,with lemon,65
+1b9c6f91-4fd9-4b76-8a9f-f10786081438,afritada,with lemon,65
+95a6210d-8e06-4efd-a01c-c6e5be9ab908,-,with rice,10
+95a6210d-8e06-4efd-a01c-c6e5be9ab908,Beef Stake,with coke,55
+2044d390-5899-4393-8023-345edf15cdf0,Beef Stake,,40
+2044d390-5899-4393-8023-345edf15cdf0,Adobo,,35
+2044d390-5899-4393-8023-345edf15cdf0,Adobo,with rice,45
+47ea3a69-b18e-40a9-9095-f6e34cec4faf,Beef Stake,,40
+47ea3a69-b18e-40a9-9095-f6e34cec4faf,Beef Stake,with rice,50
+f809be56-dd79-40e7-a1cb-8279875e9acb,Adobo,,35
+f809be56-dd79-40e7-a1cb-8279875e9acb,Adobo,with rice,45
+f809be56-dd79-40e7-a1cb-8279875e9acb,Beef Stake,with rice,50
+0f82f66f-b40b-4e05-a85b-7c8dcc4db6ac,Beef Stake,,40
+0f82f66f-b40b-4e05-a85b-7c8dcc4db6ac,Beef Stake,with rice,50
+3ac0e328-9722-4460-88b9-2e18bd534438,Adobo,,35
+3ac0e328-9722-4460-88b9-2e18bd534438,Adobo,with rice,45
